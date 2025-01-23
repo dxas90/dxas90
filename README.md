@@ -19,16 +19,18 @@ Here are some ideas to get you started:
 🔃 Attempting to 📈 enhance 💻 OSS one 🗃️ repository at a time 🕘
 
 ### 📫 How to reach me
+
 [![linkedin][linkedin-badge]][linkedin] [![codersrank][codersrank-badge]][codersrank]
 
 ### Stats
-![Github Years][gh-years-badge] ![Github Visits][gh-visits-badge] ![Github Followers][gh-followers]  ![Github Stars][gh-stars]
+
+![Github Years][gh-years-badge] ![Github Followers][gh-followers] ![Github Stars][gh-stars]  ![Github Visits][gh-visits-badge]
 
 [![Github profile details][gh-profile-details]][linkedin]
 
 [![Github Languages][gh-repos-per-language]][linkedin] [![Github commit languages][gh-most-commit-language]][linkedin]
 
-[![Github Stats][gh-stats-section]][profile] [![Github Languages][gh-languages-section]][profile]
+[![Github Languages][gh-languages-section]][profile]
 
 
 [current]: https://github.com/Quickbase
@@ -40,6 +42,9 @@ Here are some ideas to get you started:
 
 [gh-years-badge]: https://badges.pufler.dev/years/dxas90?style=for-the-badge&label=Github%20Years&color=blue
 [gh-visits-badge]: https://badges.pufler.dev/visits/dxas90/dxas90?style=for-the-badge&color=blue
+[gh-stars]: https://img.shields.io/github/stars/dxas90?style=for-the-badge&affiliations=OWNER%2CCOLLABORATOR&labelColor=333333&logoColor=E7E7E7&color=blue&label=Stars&logo=github
+[gh-contributions-year]: https://badges.strrl.dev/contributions/yearly/dxas90?style=for-the-badge&labelColor=333333&logoColor=E7E7E7&color=blue&label=Yearly%20Contributions&logo=github
+[gh-contributions-all]: https://badges.strrl.dev/contributions/all/dxas90?style=for-the-badge&labelColor=333333&logoColor=E7E7E7&color=blue&label=All%20Contributions&logo=github
 [gh-stats-section]: https://github-readme-stats.vercel.app/api?username=dxas90&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&card_width=230
 [gh-languages-section]: https://github-readme-stats.vercel.app/api/top-langs/?username=dxas90&layout=compact&hide=smarty&theme=tokyonight
 
