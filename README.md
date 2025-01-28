@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 *DevOps Engineer at [Quickbase][current]*
 
-🔃 Attempting to 📈 enhance 💻 OSS one 🗃️ repository at a time 🕘
+🔃 Attempting to 📈 enhance 💻 OSS one 🗃️ repository at a time 🕘 full code stats [here][codersrank]
 
 ### 📫 How to reach me
 
@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 
 ### Stats
 
-![Github Years][gh-years-badge] ![Github Followers][gh-followers] ![Github Stars][gh-stars]  ![Github Visits][gh-visits-badge]
+[![Github Years][gh-years-badge]][codersrank] [![Github Followers][gh-followers]][codersrank] [![Github Stars][gh-stars]][codersrank]  [![Github Visits][gh-visits-badge]][codersrank]
 
 [![Github profile details][gh-profile-details]][linkedin]
 
-[![Github Languages][gh-repos-per-language]][linkedin] [![Github commit languages][gh-most-commit-language]][linkedin]
+[![Github Languages][gh-repos-per-language]][codersrank] [![Github commit languages][gh-most-commit-language]][codersrank]
 <!--
 [![Github Languages][gh-languages-section]][profile]
 
