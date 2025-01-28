@@ -29,9 +29,10 @@ Here are some ideas to get you started:
 [![Github profile details][gh-profile-details]][linkedin]
 
 [![Github Languages][gh-repos-per-language]][linkedin] [![Github commit languages][gh-most-commit-language]][linkedin]
-
+<!--
 [![Github Languages][gh-languages-section]][profile]
 
+-->
 
 [current]: https://github.com/Quickbase
 [linkedin]: https://www.linkedin.com/in/daniel-ramirez-1990/
