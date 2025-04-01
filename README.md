@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Hi there 👋 I'm Daniel Ramirez
 
-*DevOps Engineer at [Quickbase][current]*
+*DevOps Engineer at [EPAM Systems][current]*
 
 🔃 Attempting to 📈 enhance 💻 OSS one 🗃️ repository at a time 🕘 full code stats [here][codersrank]
 
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 -->
 
-[current]: https://github.com/Quickbase
+[current]: https://github.com/epam
 [linkedin]: https://www.linkedin.com/in/daniel-ramirez-1990/
 [linkedin-badge]: https://img.shields.io/badge/linkedin-daniel-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white 
 
