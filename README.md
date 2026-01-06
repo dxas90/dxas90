@@ -61,6 +61,6 @@ Here are some ideas to get you started:
 [codersrank]: https://profile.codersrank.io/user/dxas90?utm_source=github&utm_medium=referral&utm_campaign=self
 [codersrank-badge]: https://img.shields.io/badge/codersrank-dxas90-%230077B5.svg?&style=for-the-badge&logo=codersrank
 [profile]: https://github.com/dxas90
-
+[CV]: https://raw.githubusercontent.com/dxas90/Awesome-CV/refs/tags/260106/examples/cv.pdf
 
 <!--![Discord][discord-badge]-->
