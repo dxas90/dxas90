@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 *DevOps Engineer at [EPAM Systems][current] and [SecDevOpsPRO][company]*
 
-🔃 Attempting to 📈 enhance 💻 OSS one 🗃️ repository at a time 🕘 full code stats [here][codersrank]
+🔃 Attempting to 📈 enhance 💻 OSS one 🗃️ repository at a time 🕘 full code stats [here][codersrank] and [git-wrapped](https://git-wrapped.com/profiles/dxas90)
 
 ### 📫 How to reach me
 
